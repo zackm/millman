@@ -1,3 +1,56 @@
 @charset "utf-8";
 @import "normalize";
 
+html, body, .container {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+}
+
+h1 {
+  font-size: 37px;
+  font-weight: 500;
+  color: rgb(55, 58, 60);
+}
+
+h2 {
+  font-size: 56px;
+  font-weight: 300;
+  line-height: 61.6px;
+  color: rgb(55, 58, 60);
+}
+
+.pic {
+  border-radius: 4px;
+  width: 250px;
+  height: 250px;
+  background-image: url('/images/millman.jpg');
+  margin-left: auto;
+  margin-right: auto;
+
+  &:hover {
+    background-image: url('/images/jackie.jpg');
+    cursor: pointer;
+  }
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: #818a91;
+
+  a {
+    color: #818a91;
+    text-decoration: none;
+
+    &:hover {
+      color: #4f9fcf;
+      text-decoration: underline;
+    }
+  }
+}
