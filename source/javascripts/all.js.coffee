@@ -1,5 +1,5 @@
 gripes = [
-  "Bad Style",
+  "Bad style",
   "BRUNCH",
   "Bad kerning",
   "No documentation",
@@ -9,8 +9,8 @@ gripes = [
   "Comic Sans",
   "Useless startups",
   "Fedoras",
-  "Stupid recruiters",
-  "People that don't read directions",
+  "Careless recruiters",
+  "People who don't read directions",
   "People",
   "Sporting events",
   "Lack of process",
@@ -63,7 +63,6 @@ gripes = [
   "Breaking SemVer",
   "Messy CSS",
   "No method comments",
-  "Mosquitos",
   "Poor anti-aliasing",
   "Men's suits",
   "Wordpress",
@@ -87,17 +86,17 @@ gripes = [
   "Instagram",
   "Financial sites without two-factor authentication",
   "Skrillex",
-  "Bart schedules"
+  "Bart schedules",
+  "Bugs in Zenefits",
+  "Dull kitchen knives",
+  "AngularJS templates"
 ]
 
 $ ->
 
-  randBetween = (start, end) ->
-    Math.floor(Math.random() * end) + start
-
   showGripe = ->
-    randIndex = randBetween(0, gripes.length - 1)
-    $(".gripe").text(gripes[randIndex])
+    randomGripe = gripes[Math.floor(Math.random() * gripes.length)]
+    $(".gripe").text(randomGripe)
 
   showGripe()
 
