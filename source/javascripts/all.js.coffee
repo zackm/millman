@@ -94,12 +94,9 @@ gripes = [
 
 $ ->
 
-  randBetween = (start, end) ->
-    Math.floor(Math.random() * end) + start
-
   showGripe = ->
-    randIndex = randBetween(0, gripes.length - 1)
-    $(".gripe").text(gripes[randIndex])
+    randomGripe = gripes[Math.floor(Math.random() * gripes.length)]
+    $(".gripe").text(randomGripe)
 
   showGripe()
 
