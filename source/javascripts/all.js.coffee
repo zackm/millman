@@ -89,7 +89,10 @@ gripes = [
   "Bart schedules",
   "Bugs in Zenefits",
   "Dull kitchen knives",
-  "AngularJS templates"
+  "AngularJS templates",
+  "Slow cookers",
+  "People who jog",
+  "Sketching"
 ]
 
 $ ->
