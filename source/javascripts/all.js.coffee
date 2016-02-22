@@ -96,7 +96,8 @@ gripes = [
   "Mexican candy",
   "Pan dulce",
   "Sugary cereals",
-  "Food stands made out of shipping containers"
+  "Food stands made out of shipping containers",
+  "Pancake syrup"
 ]
 
 $ ->
