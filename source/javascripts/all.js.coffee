@@ -97,7 +97,8 @@ gripes = [
   "Pan dulce",
   "Sugary cereals",
   "Food stands made out of shipping containers",
-  "Pancake syrup"
+  "Pancake syrup",
+  "Camping"
 ]
 
 $ ->
