@@ -98,7 +98,11 @@ gripes = [
   "Sugary cereals",
   "Food stands made out of shipping containers",
   "Pancake syrup",
-  "Camping"
+  "Camping",
+  "\"Data science\"",
+  "People who haven't yet learned that they're wrong",
+  "SQL-haters",
+  "Changes to perfectly good salads"
 ]
 
 $ ->
