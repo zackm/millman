@@ -104,7 +104,8 @@ gripes = [
   "SQL-haters",
   "Changes to perfectly good salads",
   "Eurosceptics",
-  "Express.js"
+  "Express.js",
+  "Most copywriting"
 ]
 
 $ ->
