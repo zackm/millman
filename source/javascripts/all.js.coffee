@@ -102,7 +102,15 @@ gripes = [
   "\"Data science\"",
   "People who haven't yet learned that they're wrong",
   "SQL-haters",
-  "Changes to perfectly good salads"
+  "Changes to perfectly good salads",
+  "Eurosceptics",
+  "Express.js",
+  "Most copywriting",
+  "Not asking for feedback early enough",
+  "Software engineers",
+  "Designers",
+  "Product managers",
+  "Masculine silverware"
 ]
 
 $ ->
