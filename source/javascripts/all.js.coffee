@@ -105,7 +105,11 @@ gripes = [
   "Changes to perfectly good salads",
   "Eurosceptics",
   "Express.js",
-  "Most copywriting"
+  "Most copywriting",
+  "Not asking for feedback early enough",
+  "Software engineers",
+  "Designers",
+  "Product managers"
 ]
 
 $ ->
