@@ -110,7 +110,13 @@ gripes = [
   "Software engineers",
   "Designers",
   "Product managers",
-  "Masculine silverware"
+  "Masculine silverware",
+  "Poorly-written regexes",
+  "Other people's survey questions",
+  "Amazon",
+  "Makefiles",
+  "Mice and keyboards",
+  "Hot places"
 ]
 
 $ ->
