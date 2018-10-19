@@ -116,7 +116,12 @@ gripes = [
   "Amazon",
   "Makefiles",
   "Mice and keyboards",
-  "Hot places"
+  "Hot places",
+  "Renaissance art",
+  "Water at restaurants in Europe",
+  "Travel pillows",
+  "Feelings",
+  "German"
 ]
 
 $ ->
