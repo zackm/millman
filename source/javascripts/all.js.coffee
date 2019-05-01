@@ -117,7 +117,7 @@ gripes = [
   "Makefiles",
   "Mice and keyboards",
   "Hot places",
-  "Sapiosexuals",
+  "Sapiosexuals"
 ]
 
 $ ->
