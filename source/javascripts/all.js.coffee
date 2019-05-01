@@ -117,7 +117,12 @@ gripes = [
   "Makefiles",
   "Mice and keyboards",
   "Hot places",
-  "Sapiosexuals"
+  "Sapiosexuals",
+  "Renaissance art",
+  "Water at restaurants in Europe",
+  "Travel pillows",
+  "Feelings",
+  "German"
 ]
 
 $ ->
