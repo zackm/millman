@@ -117,6 +117,7 @@ gripes = [
   "Makefiles",
   "Mice and keyboards",
   "Hot places",
+  "Sapiosexuals",
   "Renaissance art",
   "Water at restaurants in Europe",
   "Travel pillows",
