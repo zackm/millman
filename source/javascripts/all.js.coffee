@@ -122,7 +122,15 @@ gripes = [
   "Water at restaurants in Europe",
   "Travel pillows",
   "Feelings",
-  "German"
+  "German",
+  "Fiction",
+  "Chocolate-covered caramels",
+  "Philips Norelco Shaver 9300",
+  "Interviews without rubrics",
+  "Bragg's Liquid Aminos",
+  "NFTs",
+  "Long documents",
+  "Urbit"
 ]
 
 $ ->
