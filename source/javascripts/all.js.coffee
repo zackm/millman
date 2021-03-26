@@ -130,7 +130,8 @@ gripes = [
   "Bragg's Liquid Aminos",
   "NFTs",
   "Long documents",
-  "Urbit"
+  "Urbit",
+  "JVM garbage collector"
 ]
 
 $ ->
