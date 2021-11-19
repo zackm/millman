@@ -131,7 +131,9 @@ gripes = [
   "NFTs",
   "Long documents",
   "Urbit",
-  "JVM garbage collector"
+  "JVM garbage collector",
+  "Calling San Francisco 'NorCal'",
+  "Non-OEM Switch controllers"
 ]
 
 $ ->
