@@ -133,7 +133,8 @@ gripes = [
   "Urbit",
   "JVM garbage collector",
   "Calling San Francisco 'NorCal'",
-  "Non-OEM Switch controllers"
+  "Non-OEM Switch controllers",
+  "Monads"
 ]
 
 $ ->
