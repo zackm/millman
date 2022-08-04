@@ -134,7 +134,8 @@ gripes = [
   "JVM garbage collector",
   "Calling San Francisco 'NorCal'",
   "Non-OEM Switch controllers",
-  "Monads"
+  "Monads",
+  "Putting dishes away"
 ]
 
 $ ->
