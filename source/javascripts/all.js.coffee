@@ -135,7 +135,8 @@ gripes = [
   "Calling San Francisco 'NorCal'",
   "Non-OEM Switch controllers",
   "Monads",
-  "Putting dishes away"
+  "Putting dishes away",
+  "howtocutapineapple.com"
 ]
 
 $ ->
