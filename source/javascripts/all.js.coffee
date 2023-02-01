@@ -136,7 +136,8 @@ gripes = [
   "Non-OEM Switch controllers",
   "Monads",
   "Putting dishes away",
-  "howtocutapineapple.com"
+  "howtocutapineapple.com",
+  "People who use 'i.e.' when they mean 'e.g.'"
 ]
 
 $ ->
