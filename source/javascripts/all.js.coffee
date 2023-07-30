@@ -3,7 +3,6 @@ gripes = [
   "BRUNCH",
   "Bad kerning",
   "No documentation",
-  "BRUNCH",
   "Too many fonts",
   "Bad fonts",
   "Comic Sans",
@@ -14,7 +13,7 @@ gripes = [
   "People",
   "Sporting events",
   "Lack of process",
-  "Magoosh Swag",
+  "Company swag",
   "PHP",
   "iTunes Connect",
   "PayPal",
@@ -37,7 +36,7 @@ gripes = [
   "Scented candles",
   "Bath bombs",
   "Avocado toast",
-  "The mushroom section at Andronico's",
+  "The mushroom section at Andronico's (always dessicated)",
   "The pledge of allegiance",
   "Suburbs",
   "Camping",
@@ -91,7 +90,6 @@ gripes = [
   "Dull kitchen knives",
   "AngularJS templates",
   "Slow cookers",
-  "People who jog",
   "Sketching",
   "Mexican candy",
   "Pan dulce",
@@ -137,7 +135,11 @@ gripes = [
   "Monads",
   "Putting dishes away",
   "howtocutapineapple.com",
-  "People who use 'i.e.' when they mean 'e.g.'"
+  "People who use 'i.e.' when they mean 'e.g.'",
+  "Trader Joe's produce",
+  "Meditation",
+  "Tasteless tomatoes",
+  "Workday"
 ]
 
 $ ->
