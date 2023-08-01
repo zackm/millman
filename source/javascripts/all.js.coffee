@@ -142,7 +142,9 @@ gripes = [
   "Workday",
   "Popsicles",
   "Dried bay leaves",
-  "Dogs"
+  "Dogs",
+  "Rainbow Grocery's allium section",
+  "Undertale"
 ]
 
 $ ->
