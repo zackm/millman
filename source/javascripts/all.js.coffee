@@ -138,8 +138,11 @@ gripes = [
   "People who use 'i.e.' when they mean 'e.g.'",
   "Trader Joe's produce",
   "Meditation",
-  "Tasteless tomatoes",
-  "Workday"
+  "Bland tomatoes",
+  "Workday",
+  "Popsicles",
+  "Dried bay leaves",
+  "Dogs"
 ]
 
 $ ->
