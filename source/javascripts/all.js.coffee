@@ -144,7 +144,11 @@ gripes = [
   "Dried bay leaves",
   "Dogs",
   "Rainbow Grocery's allium section",
-  "Undertale"
+  "Undertale",
+  "Mochi",
+  "Cooperative board games",
+  "White chocolate",
+  "Lion's mane mushrooms"
 ]
 
 $ ->
