@@ -148,7 +148,12 @@ gripes = [
   "Mochi",
   "Cooperative board games",
   "White chocolate",
-  "Lion's mane mushrooms"
+  "Lion's mane mushrooms",
+  "Noah's Bagels",
+  "Soy milk",
+  "The Princess Bride",
+  "Chestnuts in stuffing",
+  "Nike Air Force 1s"
 ]
 
 $ ->
