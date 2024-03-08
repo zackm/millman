@@ -153,7 +153,12 @@ gripes = [
   "Soy milk",
   "The Princess Bride",
   "Chestnuts in stuffing",
-  "Nike Air Force 1s"
+  "Nike Air Force 1s",
+  "Too many Yayoi Kusama exhibitions",
+  "Noisy cassettes on gravel bikes",
+  "Anish Kapoor",
+  "Jurgen Teller (looks like photos your mom takes)",
+  "Jeff Koonz"
 ]
 
 $ ->
