@@ -158,7 +158,9 @@ gripes = [
   "Noisy cassettes on gravel bikes",
   "Anish Kapoor",
   "Jurgen Teller (looks like photos your mom takes)",
-  "Jeff Koonz"
+  "Jeff Koonz",
+  "People who write “niceee” (the e is silent)",
+  "Ancient grains"
 ]
 
 $ ->
