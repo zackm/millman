@@ -162,7 +162,7 @@ gripes = [
   "People who write “niceee” (the e is silent)",
   "Ancient grains",
   "Most infographics",
-  "Confusing correlation with causation",
+  "Confusing correlation with causation"
 ]
 
 $ ->
