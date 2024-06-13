@@ -160,7 +160,9 @@ gripes = [
   "Jurgen Teller (looks like photos your mom takes)",
   "Jeff Koonz",
   "People who write “niceee” (the e is silent)",
-  "Ancient grains"
+  "Ancient grains",
+  "Most infographics",
+  "Confusing correlation with causation",
 ]
 
 $ ->
