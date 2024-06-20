@@ -163,7 +163,8 @@ gripes = [
   "Ancient grains",
   "Most infographics",
   "Confusing correlation with causation",
-  "Human babies"
+  "Human babies",
+  "Microsoft admin settings"
 ]
 
 $ ->
