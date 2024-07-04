@@ -164,7 +164,19 @@ gripes = [
   "Most infographics",
   "Confusing correlation with causation",
   "Human babies",
-  "Microsoft admin settings"
+  "Microsoft admin settings",
+  "Leonard Cohen",
+  "Blue zones (pension fraud)",
+  "Not knowing the difference between a crisp and cobbler",
+  "Tiger balm",
+  "Wellness culture",
+  "Those hippie multi-tier ruffle skirts",
+  "Incompetence",
+  "Vegan cheese",
+  "Philosophy (simple ideas explained badly)",
+  "Poorly framed problem statements",
+  "Flannel sheets",
+  "Being sweaty"
 ]
 
 $ ->
