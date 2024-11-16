@@ -41,7 +41,6 @@ gripes = [
   "Suburbs",
   "Camping",
   "Travel photos",
-  "Third-wave coffee shops",
   "Oenophiles",
   "Google buses",
   "Punks",
@@ -145,7 +144,6 @@ gripes = [
   "Dogs",
   "Rainbow Grocery's allium section",
   "Undertale",
-  "Mochi",
   "Cooperative board games",
   "White chocolate",
   "Lion's mane mushrooms",
@@ -176,7 +174,14 @@ gripes = [
   "Philosophy (simple ideas explained badly)",
   "Poorly framed problem statements",
   "Flannel sheets",
-  "Being sweaty"
+  "Being sweaty",
+  "Airline reward programs",
+  "Powdered sugar on beignets",
+  "Cookie dough ice cream",
+  "Mochi muffins",
+  "Christmas trees (get a wreath)",
+  "`latest` tag for Docker images",
+  "Baby photos (all babies look the same)"
 ]
 
 $ ->
