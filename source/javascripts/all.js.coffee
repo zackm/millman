@@ -35,7 +35,6 @@ gripes = [
   "Beyonce",
   "Scented candles",
   "Bath bombs",
-  "Avocado toast",
   "The mushroom section at Andronico's (always dessicated)",
   "The pledge of allegiance",
   "Suburbs",
@@ -181,7 +180,9 @@ gripes = [
   "Mochi muffins",
   "Christmas trees (get a wreath)",
   "`latest` tag for Docker images",
-  "Baby photos (all babies look the same)"
+  "Baby photos (all babies look the same)",
+  "Fruit-flavored teas",
+  "Flavored potato chips"
 ]
 
 $ ->
