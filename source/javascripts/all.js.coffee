@@ -1,6 +1,6 @@
 gripes = [
   "Bad style",
-  "BRUNCH",
+  "Brunch restaurants",
   "Bad kerning",
   "No documentation",
   "Too many fonts",
@@ -33,7 +33,6 @@ gripes = [
   "Colored clothing",
   "People not knowing about Portishead",
   "Beyonce",
-  "Scented candles",
   "Bath bombs",
   "The mushroom section at Andronico's (always dessicated)",
   "The pledge of allegiance",
@@ -47,7 +46,7 @@ gripes = [
   "Bad interviewers",
   "Gamification",
   "Net Promoter Score",
-  "401(k) plans",
+  "401k plans (they're regressive)",
   "Exercise",
   "Medical insurance",
   "Negotiation",
@@ -182,7 +181,14 @@ gripes = [
   "`latest` tag for Docker images",
   "Baby photos (all babies look the same)",
   "Fruit-flavored teas",
-  "Flavored potato chips"
+  "Flavored potato chips",
+  "Myers-Briggs Type Indicator",
+  "The Enneagram",
+  "Abstract descriptions of personal projects",
+  "Using the word 'community'",
+  "Political art",
+  "Graffiti museums (it's never good)",
+  "Hot weather"
 ]
 
 $ ->
